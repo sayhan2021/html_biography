@@ -6,16 +6,16 @@ You have just received the news that your favorite public figure is in the marke
 
 ## The Lab
 
-You'll be working in the index.html file provided. After choosing your favorite public figure (this can be anyone from Ariana Grande to Bill Gates), follow the steps below to make sure that your website contains everything it needs to *break the internet*. Each step will background information to help you complete the task, the actual actions you need to complete will be bolded text within those steps.
+Throughout this lab you'll be working in the index.html file provided. After choosing your favorite public figure (this can be anyone from Ariana Grande to Bill Gates), follow the steps below to make sure that your website contains everything it needs to *break the internet*. Each step will contain background information to help you complete the task. The actual actions you need to complete will be bolded text within those steps.
 
 ### Step One: Getting Started and Using Comments
 
 **Open up the index.html file and familiarize yourself with the setup of the document.** The boilerplate code you see is from [here](http://htmlshell.com), a great resource for your future HTML setup.
 
-In this lab, we'll be focusing on the information in between the two body tags
+In this lab, we'll be focusing on the information between the two body tags
 ```<body></body>```. This is where the information that appears on our page is located. Remember, tags generally come in pairs with the end tag having a "/" character.
 
-On line 8, you'll see the following code. This is a comment and won't actually change what shows up when you preview your HTML. To add a comment you can copy the ```<!-- -->``` characters and write in between the two arrows. Alternatively, you can press the command key and the question mark key to automatically insert those characters.
+On line 8, you'll see the following code. This is a comment and won't actually change what shows up when you preview your HTML. To add a comment you can copy the ```<!-- -->``` characters and write between the two arrows. Alternatively, you can press the command key and the question mark key to automatically insert those characters.
 ```html
 <!-- Insert your website code below here! (This is a comment, it won't impact how your website looks) -->
 ```
@@ -134,7 +134,7 @@ The image tag is slightly different from the other tags we've looked at because 
 ##### Part B:
 **Follow the steps above and create at least two more image tags for your page. You can find these images online and add them to any location on your page that you feel makes sense.**
 
-Congratulations! You have a wonderful website with lot of useful and trustworthy information! A website designers job is never truly done, so if there's more sections, information, sources, or images that you want to add keep going! If you're looking for some more challenges, check out the extensions section below...
+Congratulations! You have a wonderful website with lot of useful and trustworthy information! A website designer's job is never truly done, so if there are more sections, bits of information, sources, or images that you want to add keep going! If you're looking for some more challenges, check out the extensions section below...
 
 ## Extensions:
 Completing these tasks will most likely require you to search terms and find documentation/examples online. [This](https://www.w3schools.com/tags/default.asp) will likely be a useful resource for you.
